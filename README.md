@@ -1,3 +1,5 @@
+![Purple Online Gamer LinkedIn Banner](https://user-images.githubusercontent.com/73740818/132953983-fe6efbf9-443a-4b10-a2ff-fe99b42c5b88.png)
+
 <h1 align="center">Hi 👋, I'm Aftab Ahmed</h1>
 <h3 align="center">A passionate Java developer from Pakistan</h3>
 
