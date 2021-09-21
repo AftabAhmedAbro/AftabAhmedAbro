@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **Python and Spring Boot framework**
+- 🌱 I’m currently learning **Python frameworks Pandas, NumPy, Matplotlib, and Spring Boot framework**
 
 - 👯 I’m looking to collaborate on **open source projects focused in Data Science, Databases and Python**
 
