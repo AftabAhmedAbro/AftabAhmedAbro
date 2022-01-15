@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **.NET Framework, C#, and Data Analytics**
+- 🌱 I’m currently learning **.NET Framework, C#, and Google Data Analytics Professional certificate on Coursera**
 
 - 👯 I’m looking to collaborate on **open source projects focused in Data Science, Databases and Python**
 
