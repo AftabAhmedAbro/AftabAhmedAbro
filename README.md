@@ -22,8 +22,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/source/unofficial/AWS-Architecture-Icons_SVG_20200430/SVG%20Light/_Group%20Icons/AWS-Cloud-alt_light-bg.svg" alt="AWS" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">     
