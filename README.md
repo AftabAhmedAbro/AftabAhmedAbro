@@ -1,10 +1,10 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/73740818/132955077-d3d072a3-f9fc-4521-84f0-dddbe03b92c0.png)
 <h1 align="center">Hi 👋, I'm Aftab Ahmed</h1>
-<h3 align="center">A passionate Java/Python developer from Pakistan</h3>
+<h3 align="center">A passionate **Software developer and Blochchain enthusiastic** from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **AI (Machine Learning), Web Engineering and Compiler Construction**
+- 🌱 I’m currently learning **AI (Machine Learning/Neural Networks), Web Engineering, Entrepreneurship and Compiler Construction**
 
 - 👯 I’m looking to collaborate on **open source projects focused in Data Science, ML, Databases and Python**
 
