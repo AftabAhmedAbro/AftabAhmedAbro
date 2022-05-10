@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **AI (Machine Learning/Neural Networks), Web Engineering, Entrepreneurship and Compiler Construction**
+- 🌱 I’m currently learning **MERN, Web Engineering, Entrepreneurship and Compiler Construction**
 
-- 👯 I’m looking to collaborate on **open source projects focused in Data Science, ML, Databases and Python**
+- 👯 I’m looking to collaborate on **open source projects focused in Web3.0 & Blockchain**
 
-- 💬 Ask me about **Java, MySQL/SQL Server or Python**
+- 💬 Ask me about **Technological innovation, Blockchain, & Community Building**
 
 - 📫 How to reach me **abroahmedaftab@gmail.com**
 
