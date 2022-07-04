@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **abroahmedaftab@gmail.com**
 
+<a href="https://app.daily.dev/aftabahmedabro"><img src="https://api.daily.dev/devcards/c1d9f846bb9647a6aa86dbb58b274f37.png?r=7lb" width="400" alt="Aftab Ahmed's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abroaftabahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abroaftabahmed" height="30" width="40" /></a>
