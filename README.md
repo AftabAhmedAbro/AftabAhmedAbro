@@ -1,4 +1,8 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/73740818/132955077-d3d072a3-f9fc-4521-84f0-dddbe03b92c0.png)
+
+<a href="https://app.daily.dev/aftabahmedabro"><img src="https://api.daily.dev/devcards/c1d9f846bb9647a6aa86dbb58b274f37.png?r=7lb" width="400" alt="Aftab Ahmed's Dev Card"/></a>
+
+
 <h1 align="center">Hi 👋, I'm Aftab Ahmed</h1>
 <h3 align="center">A passionate Software developer and Blochchain enthusiastic from Pakistan</h3>
 
@@ -12,7 +16,7 @@
 
 - 📫 How to reach me **abroahmedaftab@gmail.com**
 
-<a href="https://app.daily.dev/aftabahmedabro"><img src="https://api.daily.dev/devcards/c1d9f846bb9647a6aa86dbb58b274f37.png?r=7lb" width="400" alt="Aftab Ahmed's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
