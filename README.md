@@ -37,11 +37,9 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
-<a href="https://app.daily.dev/aftabahmedabro"><img src="https://api.daily.dev/devcards/c1d9f846bb9647a6aa86dbb58b274f37.png?r=7lb" width="400" alt="Aftab Ahmed's Dev Card"/></a>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabahmedabro&show_icons=true&locale=en&layout=compact" alt="aftabahmedabro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabahmedabro&show_icons=true&locale=en" alt="aftabahmedabro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabahmedabro&" alt="aftabahmedabro" /></p>
+<a href="https://app.daily.dev/aftabahmedabro"><img align="right" src="https://api.daily.dev/devcards/c1d9f846bb9647a6aa86dbb58b274f37.png?r=7lb" width="400" alt="Aftab Ahmed's Dev Card"/></a>
