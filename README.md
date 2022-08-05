@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **MERN stack, Web Engineering, and Technology Entrepreneurship**
+- 🌱 I’m currently learning **NodeJS, ReactJS, and Blockchain development**
 
 - 👯 I’m looking to collaborate on **open source projects focused in Web3.0 & Blockchain**
 
