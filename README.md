@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, and Blockchain development**
+- 🌱 I’m currently learning **Smart Contracts & HyperLedger, Human Computer Interaction, and Business Development. **
 
-- 👯 I’m looking to collaborate on **open source projects focused in Web3.0 & Blockchain**
+- 👯 I’m looking to collaborate on **open source projects focused in MERN, Andriod, Web3.0 & Blockchain**
 
-- 💬 Ask me about **Technological innovation, Blockchain, & Community Building**
+- 💬 Ask me about **Technological innovation & Startups, Blockchain, & Community Building**
 
 - 📫 How to reach me **abroahmedaftab@gmail.com**
 
