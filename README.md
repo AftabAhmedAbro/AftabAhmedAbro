@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **Smart Contracts & HyperLedger, Human Computer Interaction, and Business Development. **
+- 🌱 I’m currently learning **Smart Contracts & HyperLedger, Human Computer Interaction, and Business Development**
 
 - 👯 I’m looking to collaborate on **open source projects focused in MERN, Andriod, Web3.0 & Blockchain**
 
