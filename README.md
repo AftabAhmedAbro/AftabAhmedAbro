@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Technological innovation & Startups, Blockchain, & Community Building**
 
-- 📫 How to reach me **abroahmedaftab@gmail.com**
+- 📫 How to reach me **https://linktr.ee/aftabahmedabro**
 
 
 
