@@ -39,7 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabahmedabro&show_icons=true&locale=en&layout=compact" alt="aftabahmedabro" /></p>
 
-<a href="https://app.daily.dev/aftabahmedabro"><img align="right" src="https://api.daily.dev/devcards/c1d9f846bb9647a6aa86dbb58b274f37.png?r=7lb" width="300" alt="Aftab Ahmed's Dev Card"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabahmedabro&show_icons=true&locale=en" alt="aftabahmedabro" /></p>
 
