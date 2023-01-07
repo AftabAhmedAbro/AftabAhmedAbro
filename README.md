@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Technological innovation & Startups, Blockchain, AWS, Azure & Community Building**
 
-- 📫 How to reach me **https://linktr.ee/aftabahmedabro**
+- 📫 How to reach me **aftab.bscsf19@iba-suk.edu.pk**
 
 
 
