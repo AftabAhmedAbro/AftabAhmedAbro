@@ -1,15 +1,15 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/73740818/132955077-d3d072a3-f9fc-4521-84f0-dddbe03b92c0.png)
 
 <h1 align="center">Hi 👋, I'm Aftab Ahmed</h1>
-<h3 align="center">CS Graduate @ Sukkur IBA, Passionate Open-Source Contributor and Community Builder from Pakistan🇵🇰</h3>
+<h3 align="center">MS Scholar with research interests in EdTech, GenAI for healthcare and FinTech, Lecturer in Computer Science and Passionate Community Builder from Pakistan🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabahmedabro&label=Profile%20views&color=0e75b6&style=flat" alt="aftabahmedabro" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud, DevOps and Human Computer Interaction**
+- 🌱 I’m currently learning **RAG Arch, AGI, and Cognitive Development**
 
-- 👯 I’m looking to collaborate on **open source projects focused in Cloud, DevOps, Andriod, Web3.0 & Blockchain**
+- 👯 I’m looking to collaborate on **open source projects focused on healthcare, DevOps, Android, EdTech**
 
-- 💬 Ask me about **Technological innovation & Startups, Blockchain, AWS, Azure & Community Building**
+- 💬 Ask me about **Technological innovation & Startups, GenAI, Cloud & Community Building**
 
 - 📫 How to reach me **aftab.bscsf19@iba-suk.edu.pk**
 
